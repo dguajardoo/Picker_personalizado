@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7C8D0FA5-8A91-4141-BA1D-5B1BE28DDAAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ocean/View/PersonEditorView.xaml.cs">
+    <Files>
+      <File FileName="Ocean/App.xaml.cs" Line="11" Column="13" />
+      <File FileName="Ocean/View/PersonEditorView.xaml" Line="61" Column="61" />
+      <File FileName="Ocean/Model/Country.cs" Line="44" Column="22" />
+      <File FileName="Ocean/View/PersonEditorViewModel.cs" Line="95" Column="35" />
+      <File FileName="Ocean/Model/Person.cs" Line="20" Column="5" />
+      <File FileName="Ocean/obj/Debug/Ocean.View.PersonEditorView.xaml.g.cs" Line="19" Column="1" />
+      <File FileName="Ocean/View/PersonEditorView.xaml.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ocean.iOS PreferredExecutionTarget="Xamarin.Player.XamarinStudio.DefaultPlayerExecutionTarget">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Ocean.iOS>
+  <MonoDevelop.Ide.ItemProperties.Ocean.Droid PreferredExecutionTarget="Android.3300cf452ecaa2db" />
+</Properties>
